@@ -1,0 +1,80 @@
+﻿[22:21:14.195] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:21:14.197] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:21:14.197] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:22:38.476] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:22:38.478] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:22:38.478] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:23:13.800] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:23:13.801] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:23:13.801] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:23:20.720] [1m[37m[INFO/Discord][39m[22m Claiming vanity yeniden in guild 1236734483055775815
+[22:23:20.720] [1m[37m[INFO/Discord][39m[22m Claimed yeniden in 413ms (0.413s): 1236734483055775815
+[22:23:20.720] [1m[37m[INFO/Discord][39m[22m {"code":"yeniden","uses":0}
+[22:33:35.811] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:33:35.828] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:33:35.828] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:33:49.970] [1m[37m[INFO/Discord][39m[22m Claiming vanity yeniden in guild 1236734483055775815
+[22:33:49.970] [1m[37m[INFO/Discord][39m[22m Claimed yeniden in 586ms (0.586s): 1236734483055775815
+[22:33:49.970] [1m[37m[INFO/Discord][39m[22m {"code":"yeniden","uses":0}
+[22:34:14.911] [1m[37m[INFO/Discord][39m[22m Vanity yeniden is already claimed. Skipping...
+[22:35:19.731] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:35:19.733] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:35:19.733] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:40:10.778] [1m[37m[INFO/Rest][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:40:10.782] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:40:10.782] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:40:11.198] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.202] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.211] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.216] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.232] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.234] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.255] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.257] [1m[37m[INFO/Discord][39m[22m Claiming vanity yeniden in guild 1236734483055775815
+[22:40:11.257] [1m[37m[INFO/Discord][39m[22m Claimed yeniden in 355ms (0.355s): 1236734483055775815
+[22:40:11.258] [1m[37m[INFO/Discord][39m[22m {"code":"yeniden","uses":0}
+[22:40:11.307] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:11.421] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:12.390] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.302] [1m[37m[INFO/Rest][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:40:31.306] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:40:31.306] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:40:31.700] [1m[37m[INFO/Discord][39m[22m Claiming vanity yeniden in guild 1236734483055775815
+[22:40:31.700] [1m[37m[INFO/Discord][39m[22m Claimed yeniden in 285ms (0.285s): 1236734483055775815
+[22:40:31.700] [1m[37m[INFO/Discord][39m[22m {"code":"yeniden","uses":0}
+[22:40:31.720] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.730] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.732] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.744] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.748] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.750] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.758] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.762] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:31.792] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:33.083] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:48.546] [1m[37m[INFO/Discord][39m[22m Vanity yeniden is already claimed. Skipping...
+[22:40:57.576] [1m[37m[INFO/Rest][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:40:57.580] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:40:57.581] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:40:58.122] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.124] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.138] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.140] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.147] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.193] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.204] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.218] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:58.234] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:40:59.422] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:41:35.742] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:41:35.743] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:41:35.744] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:41:40.092] [1m[37m[INFO/Discord][39m[22m Claiming vanity yeniden in guild 1236734483055775815
+[22:41:40.092] [1m[37m[INFO/Discord][39m[22m Claimed yeniden in 399ms (0.399s): 1236734483055775815
+[22:41:40.093] [1m[37m[INFO/Discord][39m[22m {"code":"yeniden","uses":0}
+[22:45:14.748] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1236734483055775815] Can claim vanity on this server!
+[22:45:14.749] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[22:45:14.750] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[23:30:41.497] [1m[37m[INFO/WebSocket Error: Error: Connection reset by peer][39m[22m undefined
+[08:39:00.402] [1m[37m[INFO/WebSocket Error: Error: Connection reset by peer][39m[22m undefined
+[08:41:19.391] [1m[37m[INFO/WebSocket Error: Error: Connection reset by peer][39m[22m undefined
